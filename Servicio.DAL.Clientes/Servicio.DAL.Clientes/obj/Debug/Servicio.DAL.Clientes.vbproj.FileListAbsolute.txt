@@ -1,0 +1,10 @@
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\bin\Servicio.DAL.Clientes.dll.config
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\bin\Servicio.DAL.Clientes.dll
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\bin\Servicio.DAL.Clientes.pdb
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\bin\Servicio.DAL.Clientes.xml
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\obj\Debug\Servicio.DAL.Clientes.vbprojResolveAssemblyReference.cache
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\obj\Debug\Servicio.DAL.Clientes.Resources.resources
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\obj\Debug\Servicio.DAL.Clientes.vbproj.GenerateResource.Cache
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\obj\Debug\Servicio.DAL.Clientes.dll
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\obj\Debug\Servicio.DAL.Clientes.xml
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Clientes\Servicio.DAL.Clientes\obj\Debug\Servicio.DAL.Clientes.pdb

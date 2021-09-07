@@ -1,0 +1,14 @@
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Servicio.DAL.Planes.dll.config
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Servicio.DAL.Planes.dll
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Servicio.DAL.Planes.pdb
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Servicio.DAL.Planes.xml
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\obj\Debug\Servicio.DAL.Planes.Resources.resources
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\obj\Debug\Servicio.DAL.Planes.vbproj.GenerateResource.Cache
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\obj\Debug\Servicio.DAL.Planes.dll
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\obj\Debug\Servicio.DAL.Planes.xml
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\obj\Debug\Servicio.DAL.Planes.pdb
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Adepa\Sistema_Clientes\Ver_6.6\ClientesWeb\Servicio.DAL.Planes\Servicio.DAL.Planes\obj\Debug\Servicio.DAL.Planes.vbprojResolveAssemblyReference.cache
