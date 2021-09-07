@@ -2,7 +2,8 @@
     Implements IServicioDALClientes
 
     Public Sub New()
-        Dim prueba As String = "a"
+	'hola        
+Dim prueba As String = "a"
     End Sub
 
     Public Function RescataDatosParcialesCliente(SecInd As String) As Respuesta Implements IServicioDALClientes.RescataDatosParcialesCliente
